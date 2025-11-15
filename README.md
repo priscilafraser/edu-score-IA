@@ -323,5 +323,11 @@ para criar uma ferramenta que:
 - Conecta o dia a dia da sala de aula ao objetivo final: aprovação e vestibular
 
 
+### Autor
+
+Projeto desenvolvido para estudo e demonstração de competências em Machine Learning e Large Language Models aplicada à Educação.
+| [<img src="https://avatars.githubusercontent.com/u/55546267?v=4" width=115><br><sub>Priscila Miranda</sub>](https://github.com/priscilafraser) |
+| :---: |
+
 
 
